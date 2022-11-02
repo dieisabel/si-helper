@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="convertTextInput">Value</string>
+    <string name="convertButtonText">Convert</string>
+    <string name="convertResultText">Result</string>
+    <string name="convertToDropdown">To</string>]
+    <string name="convertFromDropdown">From</string>
+</resources>
